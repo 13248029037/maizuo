@@ -1,8 +1,5 @@
 # Vue2实战：模仿卖座电影
 > 使用Vue2.0全家桶仿制[卖座电影](http://m.maizuo.com/v4/?co=maizuo)
->
-> 仓库：[https://github.com/ChuckCZC/vue-demo-maizuo](https://github.com/ChuckCZC/vue-demo-maizuo)
-
 ## 声明
 
 该项目所用到的API均来自 [卖座电影](http://m.maizuo.com/v4/?co=maizuo) ，采用chrome 开发者工具分析出来的，只是为了得到数据进行排版练习，完全出于学习用途，并无恶意，请卖座电影官方海涵。
