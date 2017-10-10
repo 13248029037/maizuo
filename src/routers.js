@@ -10,7 +10,8 @@ Vue.use(VueRouter);
 const routes = [
     {
         path:'/',
-        component:require('./App'),
+      //  component:require('./App'),
+      component:require("./test.vue"),
         children:[
             {
                 path:'/home',
